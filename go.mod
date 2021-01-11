@@ -1,4 +1,4 @@
-module github.com/Shehanka/cupcake
+module github.com/GolangSriLanka/cupcake
 
 go 1.15
 

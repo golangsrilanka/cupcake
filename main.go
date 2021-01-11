@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/Shehanka/cupcake/cmd"
+import "github.com/GolangSriLanka/cupcake/cmd"
 
 func main() {
 	cmd.Execute()
